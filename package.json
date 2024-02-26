@@ -9,6 +9,15 @@
     "lint": "next lint",
     "export": "next build && next export"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoneHome/web3-develop.git"
+  },
+  "keywords": [
+    "web3",
+    "develop",
+    "navigation"
+  ],
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.10",
     "@rainbow-me/rainbowkit": "^0.8.1",
