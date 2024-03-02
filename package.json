@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/JoneHome/web3-develop.git"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "web3",
     "develop",
